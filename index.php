@@ -33,6 +33,24 @@ $db = [
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
+
+        <nav id="navbar">
+            <div class="wrapper">
+                <img src="./368px-Google_2015_logo.svg.png" alt="">
+                <span>Privacy & Termini</span>
+            </div>
+            <ul>
+                <li>lorem</li>
+                <li>lorem</li>
+                <li>lorem</li>
+                <li>lorem</li>
+                <li>lorem</li>
+            </ul>
+        </nav>
+        <!-- /#navbar -->
+
+
+
         <div class="container">
             <?php 
                 foreach ($db as $question) {?>
