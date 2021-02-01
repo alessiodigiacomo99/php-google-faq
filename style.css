@@ -1,0 +1,14 @@
+.container{
+    width: 70%;
+    margin: auto;
+    padding: 50px 0;
+}
+
+h2{
+    color: #3c4043;
+    font-size: 24px;
+}
+
+.risposta{
+    margin: 50px 0;
+}
